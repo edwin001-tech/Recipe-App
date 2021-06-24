@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipesAPI</string>
+
+    <string name="menu_categories_label">Categories</string>
+    <string name="layout_search_exhausted_no_more_results">No more results…</string>
+    <string name="layout_recipe_calories_label">Calories</string>
+    <string name="recipe_activity_calories_serving_label">Calories/Serving</string>
+    <string name="recipe_activity_servings_label">Servings</string>
+    <string name="recipe_activity_diet_labels">Diet Labels</string>
+    <string name="recipe_activity_health_labels">Health Labels</string>
+    <string name="recipe_activity_cautions">Cautions</string>
+</resources>
