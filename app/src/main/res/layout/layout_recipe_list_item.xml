@@ -40,6 +40,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="@dimen/recipe_20sp_text_size"
+                        android:fontFamily="sans-serif-condensed-light"
                         android:textColor="#000"
                         android:id="@+id/recipe_label"/>
 
@@ -47,6 +48,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="@dimen/recipe_16sp_text_size"
+                        android:fontFamily="sans-serif-condensed-light"
                         android:gravity="start"
                         android:id="@+id/recipe_source"
                         android:layout_below="@id/recipe_label"/>
@@ -65,6 +67,7 @@
                         android:layout_height="wrap_content"
                         android:textColor="@color/red"
                         android:textSize="@dimen/recipe_16sp_text_size"
+                        android:fontFamily="sans-serif-condensed-light"
                         android:layout_centerHorizontal="true"
                         android:id="@+id/recipe_calories"/>
 
@@ -73,6 +76,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/layout_recipe_calories_label"
                         android:textSize="@dimen/recipe_16sp_text_size"
+                        android:fontFamily="sans-serif-condensed-light"
                         android:layout_centerHorizontal="true"
                         android:layout_below="@id/recipe_calories"/>
 
