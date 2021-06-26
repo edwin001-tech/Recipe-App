@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RecipesAPI</string>
+    <string name="app_name">Smart Recipes</string>
 
     <string name="menu_categories_label">Categories</string>
     <string name="layout_search_exhausted_no_more_results">No more results…</string>
