@@ -24,8 +24,8 @@ import java.util.ArrayList;
 import java.util.List;
 import static com.android.billingclient.api.BillingClient.SkuType.SUBS;
 
-public class MainActivity extends AppCompatActivity implements PurchasesUpdatedListener {
-
+public class BaseActivity extends AppCompatActivity implements PurchasesUpdatedListener {
+    //dummy data for testing
     public static final String PREF_FILE= "MyPref";
     public static final String SUBSCRIBE_KEY= "subscribe";
     public static final String ITEM_SKU_SUBSCRIBE= "sub_example";
